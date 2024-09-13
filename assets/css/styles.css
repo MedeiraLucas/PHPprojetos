@@ -139,6 +139,9 @@ body {
   font-family: sans-serif; /* fonte sem serifa */
   font-size: 16px; /* tamanho da fonte, o tamnho padrão já é 16px */
   background-color: rgb(136, 24, 174);
+  background-image: url("../images/cdz.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .container {
